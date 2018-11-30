@@ -1,5 +1,1 @@
-Comparison of PCA methods on data from plate 5298, spectrograph I.
 
-The code for weghted PCA needs to be modified as neither its reconstruction nor its projection results are in the desired space.
-
-Invalid results are obtained for selected Galaxy fiber, while other object fibers do have valid modeled results.
